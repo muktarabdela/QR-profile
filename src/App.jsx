@@ -106,7 +106,11 @@ function App() {
 
               <div>
                 <ul className='flex flex-col items-center justify-center gap-4 py-4 mx-[4em]'>
-                  <a className='p-4 bg-blue-700 rounded-full w-full text-white flex items-center  ' href="" target='BLANK()'>
+                  <a
+                    className='p-4 bg-blue-700 rounded-full w-full text-white flex items-center'
+                    href="https://t.me/pharme24"
+                    target='_blank'
+                  >
                     <svg
                       className='ml-2'
                       xmlns="http://www.w3.org/2000/svg"
@@ -117,13 +121,13 @@ function App() {
                     >
                       <path d="m20.665 3.717-17.73 6.837c-1.21.486-1.203 1.161-.222 1.462l4.552 1.42 10.532-6.645c.498-.303.953-.14.579.192l-8.533 7.701h-.002l.002.001-.314 4.692c.46 0 .663-.211.921-.46l2.211-2.15 4.599 3.397c.848.467 1.457.227 1.668-.785l3.019-14.228c.309-1.239-.473-1.8-1.282-1.434z" />
                     </svg>
-
                     <span className='ml-16 lg:ml-40 text-lg font-semibold text-gray-300'>
                       Telegram
                     </span>
                   </a>
                 </ul>
               </div>
+
             </div>
           </div>
         </div>
