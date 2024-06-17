@@ -30,7 +30,7 @@ function App() {
               </div>
               <hr className="mt-6 w-60 mx-auto" />
 
-              <h1 className='text-center font-semibold text-2xl py-4 text-gray-600'>Contact Information</h1>
+              <h1 className='text-center font-semibold text-lg py-4 text-gray-600'>Contact Information</h1>
               <div>
                 <ul className='flex items-center justify-center gap-4 py-4'>
                   <a
@@ -107,7 +107,7 @@ function App() {
               </div>
 
 
-              <h1 className='text-center font-semibold text-2xl py-4 text-gray-600'>Social Media</h1>
+              <h1 className='text-center font-semibold text-lg py-4 text-gray-600'>Social Media</h1>
               <div>
                 <ul className='flex flex-col items-center justify-center gap-4 py-4 mx-[4em]'>
                   <a
