@@ -29,23 +29,62 @@ function App() {
 
               <div>
                 <ul className='flex items-center justify-center gap-4 py-4'>
+                  <a
+                    className='p-2 bg-blue-700 rounded-full text-white flex items-center justify-center'
+                    href="tel:0991626111"
+                    target='_blank'
+                  >
+                    <li>
+                      <svg
+                        className='p-1'
+                        width="30"
+                        height="30"
+                        fill="none"
+                        stroke="#ffffff"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="1.5"
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"
+                        ></path>
+                      </svg>
+                    </li>
+                  </a>
 
-                  <a className='p-2 bg-blue-700 rounded-full text-white flex items-center justify-center' href="" target='BLANK()'>
-                    <li >
-                      <svg className='p-1' width="30" height="30" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+                  <a
+                    className='p-2 bg-blue-700 rounded-full text-white flex items-center justify-center'
+                    href="tel:0914343893"
+                    target='_blank'
+                  >
+                    <li>
+                      <svg
+                        className='p-1'
+                        width="30"
+                        height="30"
+                        fill="none"
+                        stroke="#ffffff"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="1.5"
+                        viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"
+                        ></path>
                       </svg>
                     </li>
                   </a>
-                  <a className='p-2 bg-blue-700 rounded-full text-white flex items-center justify-center' href="" target='BLANK()'>
-                    <li >
-                      <svg className='p-1' width="30" height="30" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
-                      </svg>
-                    </li>
-                  </a>
-                  <a className='p-2 bg-blue-700 rounded-full text-white flex items-center justify-center ' href="" target='BLANK()'>
-                    <li >
+
+                  <a
+                    className='p-2 bg-blue-700 rounded-full text-white flex items-center justify-center'
+                    href="mailto:Nurlgnyesuf@gmail.com"
+                    target='_blank'
+                  >
+                    <li>
                       <svg
                         className='p-1'
                         xmlns="http://www.w3.org/2000/svg"
@@ -54,14 +93,15 @@ function App() {
                         viewBox="0 0 24 24"
                         style={{ fill: "rgba(234, 222, 222, 1)", transform: "", msfilter: "" }}
                       >
-                        <path d="M20 4H4c-1.103 0-2 .897-2 2v12c0 1.103.897 2 2 2h16c1.103 0 2-.897 2-2V6c0-1.103-.897-2-2-2zm0 2v.511l-8 6.223-8-6.222V6h16zM4 18V9.044l7.386 5.745a.994.994 0 0 0 1.228 0L20 9.044 20.002 18H4z" />
+                        <path
+                          d="M20 4H4c-1.103 0-2 .897-2 2v12c0 1.103.897 2 2 2h16c1.103 0 2-.897 2-2V6c0-1.103-.897-2-2-2zm0 2v.511l-8 6.223-8-6.222V6h16zM4 18V9.044l7.386 5.745a.994.994 0 0 0 1.228 0L20 9.044 20.002 18H4z"
+                        />
                       </svg>
-
                     </li>
                   </a>
-
                 </ul>
               </div>
+
 
 
               <div>
