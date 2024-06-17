@@ -19,10 +19,13 @@ function App() {
             <div className=" mt-5">
               <div className="text-center px-14">
                 <h2 className="text-gray-800 text-3xl font-bold">
-                  E pharma  </h2>
+                  Pharmadica
+                </h2>
 
-                <p className="mt-2 text-gray-500 text-sm">
-                  platform description
+                <p className="mt-2 text-gray-500 text-sm px-10">
+                  Exprience the convenience of
+                  your pharmaceutical and healthcare
+                  e-commerce needs.
                 </p>
               </div>
               <hr className="mt-6 w-60 mx-auto" />
