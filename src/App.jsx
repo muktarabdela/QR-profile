@@ -9,13 +9,13 @@ function App() {
         {/* component */}
         <div className="mt-4 flex flex-wrap items-center  justify-center mx-2 ">
           <div className="container lg:w-2/5 xl:w-2/7 sm:w-full md:w-2/3    bg-white  shadow-lg    transform   duration-200 easy-in-out">
-            {/* <div className=" h- overflow-hidden rounded-lg">
+            <div className=" h- overflow-hidden rounded-lg">
               <img
                 className="w-full h-full object-fit "
                 src={bg}
                 alt=""
               />
-            </div> */}
+            </div>
             <div className=" mt-5">
               <div className="text-center px-14">
                 <h2 className="text-gray-800 text-3xl font-bold">
