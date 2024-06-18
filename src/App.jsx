@@ -19,7 +19,7 @@ function App() {
             <div className=" mt-5">
               <div className="text-center px-14">
                 <h2 className="text-gray-800 text-3xl font-bold">
-                  Pharmadica
+                  PharMedica
                 </h2>
 
                 <p className="mt-2 text-gray-500 text-sm px-10">
@@ -85,7 +85,7 @@ function App() {
 
                   <a
                     className='p-2 bg-blue-700 rounded-full text-white flex items-center justify-center'
-                    href="mailto:Nurlgnyesuf@gmail.com"
+                    href="mailto:pharmedica.et@gmail.com"
                     target='_blank'
                   >
                     <li>
